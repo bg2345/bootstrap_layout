@@ -42,6 +42,10 @@ div[class="col-md-7"]>p { /*target a class with 7 columns and then the paragraph
   text-align: center;
 }
 
+form button {
+  width: 100%;
+}
+
 footer {
   background-color: #343a40!important
 }
